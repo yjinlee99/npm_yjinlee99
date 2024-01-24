@@ -10,5 +10,8 @@
     "yjinlee99"
   ],
   "author": "yjinlee99",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+	  "yjinlee99": "./index.js"
+  }
 }
