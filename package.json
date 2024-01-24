@@ -1,0 +1,14 @@
+{
+  "name": "yjinlee99",
+  "version": "0.1.0",
+  "description": "yjinlee99",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yjinlee99"
+  ],
+  "author": "yjinlee99",
+  "license": "ISC"
+}
