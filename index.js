@@ -8,7 +8,6 @@ class Random{
 	say() {
 		console.log('발표자 :' + this.argv[0][Math.floor(Math.random()*this.argv[0].length)]);
 	}
-
 }
 
 class RandomPrint extends Random {
