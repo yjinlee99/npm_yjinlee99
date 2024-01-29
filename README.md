@@ -91,4 +91,5 @@ WSL > nvm > nodejs v20.11.0. > npm cli
 $ npm login
 $ npm publish
 ```
-
+<h3>version</h3>
+0.4.0
